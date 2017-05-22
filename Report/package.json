@@ -46,7 +46,7 @@
     "whatwg-fetch": "2.0.2"
   },
   "dependencies": {
-    "@ihealth/ihcharts": "^0.1.6",
+    "@ihealth/ihcharts": "^0.1.7",
     "antd": "^2.10.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
