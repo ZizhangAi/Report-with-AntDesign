@@ -1,0 +1,7 @@
+{
+  "name": "PhantomReport",
+  "version": "0.0.1",
+  "dependencies": {
+    "phantom": "^4.0.3"
+  }
+}
