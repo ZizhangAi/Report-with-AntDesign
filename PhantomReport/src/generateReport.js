@@ -43,6 +43,7 @@ module.exports = function(p) {
     .then(function() {
       return _page.evaluate(function(props) {
         report.setHeader(props.header);
+        report.setECGChart(props.ECGData);
       }, p)
     })
     .then(function () {
